@@ -1,3 +1,4 @@
 node_modules
 *.sublime_project
 *.sublime-workspace
+.DS_Store
